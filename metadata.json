@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Фотограф AI PRO",
+  "description": "Professional photo prompt builder that deconstructs images into editable photography presets.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
